@@ -3,7 +3,7 @@
 A new Flutter project.
 
 This is a beautiful user-friendly interface for mobile and website. 
-#for your more information, I've add video and screenshots of this project. 
+# for your more information, I've add video and screenshots of this project. 
 # ENJOYe CODing
 
 This project is a starting point for a Flutter application.
